@@ -7,3 +7,53 @@ Pardon?
 Is this your handbag?
 Yes, it is.
 Thank you very much!
+Study english now! go go go!
+Love and go!
+Git is very good!
+Git is pretty smart!
+handbag
+coat
+school
+study
+book
+pen
+pencil
+desk
+desktop
+english
+foreach
+for
+while
+loop
+break
+continue
+do while
+while
+if
+else
+else if
+exit
+return
+boolean
+bool
+true
+false
+try
+catch
+Is this your coat?
+Yes, it is.
+Thank you very much!
+Nice to meet you.
+How much?
+French
+Genman
+English
+Japnese
+Korean
+Chinese
+int main() 
+int double float char string array number date
+month
+week
+monday
+Sunday
